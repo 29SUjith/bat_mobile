@@ -1,5 +1,3 @@
-// Created by Sujith from DSCE Bangalore
-
 #include <Servo.h>
 
 int servopin=9;
